@@ -1,0 +1,19 @@
+receptor = lig_1BDQ.pdbqt
+ligand = recep_1BDQ.pdbqt
+
+center_x =  -13.892 
+center_y= 15.137 
+center_z = 27.606
+
+size_x = 62
+size_y =  44
+size_z =  60
+
+energy_range  =  4
+exhaustiveness = 8
+
+out = vina_outSo.pdbqt
+
+log = logSo.txt
+
+

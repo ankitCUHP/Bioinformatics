@@ -1,0 +1,16 @@
+A. Firstly install vina for your system(windows/linux/mac)
+
+B. then install obabel(for linux systems[cmd is]:
+			 sudo apt-get install obabel
+
+C. open babel command for mol2 to pdbqt:
+			obabel -imol2 YourFileName.mol2 -opdbqt YourFileName*.pdbqt -m
+
+
+D. Required files:
+	1. receptor
+	2. ligands
+	3. list
+	4. script
+	5. config
+
