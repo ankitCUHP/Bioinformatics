@@ -14,6 +14,6 @@ for($i=0;$i<@arr_file;$i++)
 {
 	chomp @arr_file[$i];
 	print"@arr_file[$i]\n";
-	system("vina --config config --ligand @arr_file[$i] --log @arr_file[$i]_log.log");
+	system("vina --config config --ligand @arr_file[$i] --log @arr_file[$i]_log.log --out @arr_file[$i]_Out.pdbqt");
 	sleep(20)
 }
