@@ -1,4 +1,4 @@
-# Virtual Screening using `Vina`
+# Virtual Screening using `AutoDock-Vina`
 # YouTube link for explanation
 If you dont'n know HINDI, please keep patience and follow the video steps
 
